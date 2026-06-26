@@ -80,9 +80,8 @@ I design and deploy real-time multi-camera tracking pipelines for logistics yard
 
 <div align="center">
 
-<!-- 3D Contribution Graph — will appear after running .github/workflows/profile-3d.yml -->
-<!-- Uncomment the line below after the first Action run: -->
-<!-- <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="90%"/> -->
+<!-- 3D Contribution Graph -->
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="90%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=YanyongLiu-coder&show_icons=true&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0d9488&icon_color=f59e0b&text_color=334155&ring_color=0d9488&cache_seconds=86400" height="165" alt="GitHub stats"/>
 &nbsp;
@@ -100,17 +99,12 @@ I design and deploy real-time multi-camera tracking pipelines for logistics yard
 
 <div align="center">
 
-<!-- Snake animation — will appear after running .github/workflows/snake.yml -->
-<!-- It generates SVGs on the `output` branch. After first run, uncomment below: -->
-<!--
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanyongLiu-coder/YanyongLiu-coder/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanyongLiu-coder/YanyongLiu-coder/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YanyongLiu-coder/YanyongLiu-coder/output/github-snake.svg" width="100%" />
-  </picture>
--->
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation placeholder" width="100%" />
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanyongLiu-coder/YanyongLiu-coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanyongLiu-coder/YanyongLiu-coder/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YanyongLiu-coder/YanyongLiu-coder/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
